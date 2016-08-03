@@ -8,8 +8,6 @@ const transporter = nodemailer.createTransport({
   port: 465,
   secure: true, // use SSL
   auth: {
-    user: 'portfolio.email.login@gmail.com',
-    pass: 'PortMyFoli0'
   }
 });
 
