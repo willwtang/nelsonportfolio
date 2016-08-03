@@ -12,6 +12,7 @@
   "author": "Nelson Rozo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "nodemailer": "^2.5.0"
   }
 }
